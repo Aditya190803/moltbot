@@ -1,0 +1,49 @@
+src/infra/provider-usage.fetch.copilot.ts
+  087b109687ce2132 1-6,8-9,12-14,16-17,21-22
+src/agents/models-config.falls-back-default-baseurl-token-exchange-fails.test.ts
+  087b109687ce2132 54,108
+src/providers/github-copilot-sdk.ts
+  087b109687ce2132 1-181
+src/agents/pi-embedded-runner/compact.ts
+  087b109687ce2132 147
+src/agents/models-config.uses-first-github-copilot-profile-env-tokens.test.ts
+  087b109687ce2132 90,120
+.github/labeler.yml
+  087b109687ce2132 183,186-188
+src/commands/auth-choice-options.ts
+  087b109687ce2132 82-83,152-153
+src/commands/auth-choice.test.ts
+  087b109687ce2132 12
+src/cli/models-cli.ts
+  087b109687ce2132 351
+src/commands/models.ts
+  087b109687ce2132 1
+src/agents/models-config.providers.ts
+  087b109687ce2132 6
+src/commands/auth-choice.apply.github-copilot.ts
+  087b109687ce2132 1,14-15,18
+src/providers/github-copilot-models.ts
+  087b109687ce2132 2,7-8,18-31,34-56
+src/providers/github-copilot-sdk.test.ts
+  087b109687ce2132 1-104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.37",
+  "base_commit_sha": "2ad19f4fd5e43b03e1db5dcbcaeb2201aa33b0e5",
+  "prompts": {
+    "087b109687ce2132": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "af301312-128c-4c99-86c7-0ef38576a705",
+        "model": "copilot/claude-opus-4.5"
+      },
+      "human_author": "Aditya Mer <aditya.mer@somaiya.edu>",
+      "messages": [],
+      "total_additions": 775,
+      "total_deletions": 400,
+      "accepted_lines": 525,
+      "overriden_lines": 0
+    }
+  }
+}
